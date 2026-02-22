@@ -1,0 +1,11 @@
+/* Styles for Three.js viewer */
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
